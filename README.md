@@ -1,5 +1,5 @@
 # CPSC454 Final Project
-Created By: 
+Created By:  
 Gustavo Vazquez - gvazquez23@csu.fullerton.edu  
 Smit Patel - smitpatel64@csu.fullerton.edu  
 Sunny To - sunny14539@csu.fullerton.edu  
